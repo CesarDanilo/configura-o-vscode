@@ -1,7 +1,8 @@
-# configura-o-vscode
+# SETTINGS VSCODE
 
 > settings.json
 
+~~~javascript
 {
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
@@ -22,3 +23,4 @@
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false
 }
+~~~
